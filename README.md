@@ -10,7 +10,7 @@ This version of the plugin uses plugin naming conventions for tiddler titles.
 ### Single file wiki ##
 
 Install plugin file
-[$\_\_plugins\_.dtn\_new-from-skeleton.tid](https://github.com/dnebauer/tw-new-from-skeleton/blob/master/%24__plugins_.dtn_new-from-skeleton.tid)
+[$\_\_plugins\_.dtn\_new-from-skeleton.json](https://github.com/dnebauer/tw-new-from-skeleton/blob/master/%24__plugins_.dtn_new-from-skeleton.json)
 to a single file wiki by:
 
 * Dragging and dropping it into your wiki, or
